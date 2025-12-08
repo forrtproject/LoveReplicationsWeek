@@ -1,0 +1,89 @@
+---
+title: ""
+about:
+  id: lrw
+  template: marquee
+  image: logos/logo_lrw.png
+---
+
+# *Love Replications Week —* March 2-6
+
+*Join us for online Brown Bag Lunch talks everyday. Scroll down to see the full program.*
+
+![](images/bar.png){fig-align="center"}
+
+## WHAT IS THE LOVE REPLICATIONS WEEK?
+
+A central feature of research is that others should be able to repeat the procedure and arrive at the same conclusions. In practice, this can be a *reproduction* - repeating a test using the same data - or a *replication* - repeating a test with different data. Historically, these repetitions have been deemed important but rarely conducted, leading to problems of repeatability in many areas across the social sciences, digital humanities, linguistics, and natural sciences. In the *Love Replications Week*, you can **learn how to do reproduction and replication studies yourself**, **submit your own local or virtual events**, **and show your love for replications — regardless of the type of research that you do!**
+
+![](images/bar.png){fig-align="center"}
+
+## Core Program: Brown Bag Lunch
+
+Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9).
+
+| Date | Presenter | Name | Topic |
+|-----------------|-----------------|-----------------|---------------------|
+| March 2, 1:00 pm CET | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
+| March 3, 1:00 pm CET | ![](people/nüst.jpeg){width="100"} | Daniel Nüst | How to get your reproducibility certificate with CODECHECK |
+| March 4, 1:00 pm CET | ![](people/wallrich.jpeg){width="100"} | Lukas Wallrich | How to find a replication target |
+| March 5, 1:00 pm CET | ![](people/röseler.png){width="100"} | Lukas Röseler | Getting your replication report ready for submission |
+| March 6, 1:00 pm CET | ![](people/adler.jpg){width="100"} | Susanne Adler | Cooperation with Students to Conduct Replication Studies |
+
+------------------------------------------------------------------------
+
+![](images/bar.png){fig-align="center"}
+
+## Full Program
+
+Please reach out to lukas.roeseler\[at\]uni-muenster\[dot\]de to submit your own events.
+
+<details>
+
+<summary>**Monday, March 2nd**</summary>
+
+-   tbc
+
+</details>
+
+<details>
+
+<summary>**Tuesday, March 3rd**</summary>
+
+-   tbc
+
+</details>
+
+<details>
+
+<summary>**Wednesday, March 4th**</summary>
+
+-   tbc
+
+</details>
+
+<details>
+
+<summary>**Thursday, March 5th**</summary>
+
+-   tbc
+
+</details>
+
+<details>
+
+<summary>**Friday, March 6th**</summary>
+
+-   tbc
+
+</details>
+
+![](images/bar.png){fig-align="center"}
+
+## Partners
+
+[![](logos/logo_i4r.png)](https://i4replication.org)[![](logos/logo_codecheck.png){width="98"}](https://codecheck.org.uk) [![](logos/logo_r2.png){width="231"}](https://replicationresearch.org)
+
+## Organizers
+
+[![](logos/logo_mücos.png){width="149"}](https://www.uni-muenster.de/MueCOS/en/index.html) [![](logos/logo_forrt.png){width="158"}](https://forrt.org)
