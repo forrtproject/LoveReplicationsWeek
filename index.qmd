@@ -31,7 +31,7 @@ Register for the core program below. To submit your own events, please reach out
 Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9).
 
 | Date | Presenter | Name | Topic |
-|------------------|------------------|------------------|--------------------|
+|------------------|------------------|------------------|-------------------|
 | March 2, 1:00 pm CET | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
 | March 3, 1:00 pm CET | ![](people/nüst.jpeg){width="100"} | Daniel Nüst | How to get your reproducibility certificate with CODECHECK |
 | March 4, 1:00 pm CET | ![](people/wallrich.jpeg){width="100"} | Lukas Wallrich | How to find a replication target |
@@ -48,7 +48,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Monday, March 2nd**</summary>
 
--   tbc
+-   Reproducibility Study Speedrun by Lenka Fiala (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -56,7 +56,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Tuesday, March 3rd**</summary>
 
--   tbc
+-   How to get your reproducibility certificate with CODECHECK by Daniel Nüst (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -64,7 +64,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Wednesday, March 4th**</summary>
 
--   tbc
+-   How to find a replication target by Lukas Wallrich (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -72,7 +72,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Thursday, March 5th**</summary>
 
--   tbc
+-   Getting your replication report ready for submission by Lukas Röseler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -80,7 +80,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Friday, March 6th**</summary>
 
--   tbc
+-   Cooperation with students to conduct replication studies by Susanne Adler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
