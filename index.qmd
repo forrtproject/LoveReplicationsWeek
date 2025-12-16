@@ -31,7 +31,7 @@ Register for the core program below. To submit your own events, please reach out
 Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9).
 
 | Date | Presenter | Name | Topic |
-|------------------|------------------|------------------|-------------------|
+|------------------|------------------|------------------|------------------|
 | March 2, 1:00 pm CET | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
 | March 3, 1:00 pm CET | ![](people/nüst.jpeg){width="100"} | Daniel Nüst | How to get your reproducibility certificate with CODECHECK |
 | March 4, 1:00 pm CET | ![](people/wallrich.jpeg){width="100"} | Lukas Wallrich | How to find a replication target |
@@ -88,7 +88,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 ## Partners
 
-[![](logos/logo_i4r.png)](https://i4replication.org)[![](logos/logo_codecheck.png){width="98"}](https://codecheck.org.uk)[![](logos/lmuosc.png){width="158"}](https://www.osc.uni-muenchen.de/index.html) [![](logos/logo_r2.png){width="231"}](https://replicationresearch.org)
+[![](logos/logo_i4r.png)](https://i4replication.org)[![](logos/logo_codecheck.png){width="98"}](https://codecheck.org.uk)[![](logos/lmuosc.png){width="158"}](https://www.osc.uni-muenchen.de/index.html) [![](logos/logo_jrr.png){width="144"}](https://scipost.org/JRobustRep/about)[![](logos/logo_r2.png){width="231"}](https://replicationresearch.org)
 
 ## Organizers
 
