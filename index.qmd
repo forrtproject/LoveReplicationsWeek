@@ -88,7 +88,11 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 ## Partners
 
-[![](logos/logo_i4r.png)](https://i4replication.org)[![](logos/logo_codecheck.png){width="98"}](https://codecheck.org.uk)[![](logos/lmuosc.png){width="158"}](https://www.osc.uni-muenchen.de/index.html) [![](logos/logo_jrr.png){width="144"}](https://scipost.org/JRobustRep/about)[![](logos/logo_r2.png){width="231"}](https://replicationresearch.org)
+[![](logos/logo_i4r.png)](https://i4replication.org) [![](logos/logo_codecheck.png){width="98"}](https://codecheck.org.uk) [![](logos/lmuosc.png){width="158"}](https://www.osc.uni-muenchen.de/index.html)
+
+[![](logos/logo_jrr.png){width="144"}](https://scipost.org/JRobustRep/about) [![](logos/logo_igor.png){width="110"}](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)
+
+[![](logos/logo_r2.png){width="231"}](https://replicationresearch.org)
 
 ## Organizers
 
