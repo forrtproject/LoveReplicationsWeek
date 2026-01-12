@@ -28,7 +28,7 @@
 .reveal .webex-question * {
     font-size: var(--webex-reveal-main-font-size) !important;
     color: var(--webex-reveal-main-color) !important;
-} 
+}
 
 
 /*--------------------webex/exams2forms-------------------*/
@@ -141,7 +141,7 @@
     border: 2px solid var(--incorrect);
     background-color: var(--incorrect_alpha);
 }
-.webex-correct,  
+.webex-correct,
 .webex-checkboxgroup > .webex-correct,
 .webex-solveme.webex-correct,
 .webex-radiogroup >.webex-correct {
@@ -226,7 +226,7 @@ ul.webex-button-list > li:first-child {
 .webex-solution pre.sourceCode {
     border-color: var(--correct);
 }
-ul.webex-button-list > li:last-child > .webex-button { 
+ul.webex-button-list > li:last-child > .webex-button {
     margin-right: 0;
 }
 
@@ -298,5 +298,17 @@ ul.webex-button-list > li:last-child > .webex-button {
   background-color: transparent;
 }
 
+/* Space logos by ~1 cm /
+.logo-stack p { / remove default paragraph gaps */
+margin: 5;
+}
 
+.logo-stack a {
+display: block; /* one logo per line /
+margin: 0 0 5cm; / 2 cm gap under each logo */
+}
 
+/* Optional: no extra gap after the very last logo in the block */
+.logo-stack p:last-child a {
+margin-bottom: 0;
+}

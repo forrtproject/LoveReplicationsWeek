@@ -19,6 +19,7 @@ format:
     include-after-body:
     - include/webex.js
     linestretch: 1.75
+    page-layout: article
 
 editor: source
 include-in-header:
@@ -26,3 +27,5 @@ include-in-header:
       <link rel = "shortcut icon" href = "assets/forrt_icon.png" />
   - text: |
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
