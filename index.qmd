@@ -42,13 +42,14 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 ![](images/bar.png){fig-align="center"}
 
-## Full Program
+## Full Program with Abstracts
 
 <details>
 
 <summary>**Monday, March 2nd**</summary>
 
--   **Reproducibility Study Speedrun** by Lenka Fiala (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Reproducibility Study Speedrun** by Lenka Fiala (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.\
 
 </details>
 
@@ -56,7 +57,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Tuesday, March 3rd**</summary>
 
--   **How to get your reproducibility certificate with CODECHECK** by Daniel Nüst (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **How to get your reproducibility certificate with CODECHECK** by Daniel Nüst (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    CODECHECK provides an approach for independent execution of computations underlying research articles. During the publication process, one reviewer - the codechecker - certifies that they was able to execute relevant parts of a computational workflow. This certificate becomes part of the public record.\
 
 </details>
 
@@ -64,8 +66,10 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Wednesday, March 4th**</summary>
 
--   **How to find a replication target** by Lukas Wallrich (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
--   **Replication Journal Showcase** by Thomas Evans, Etienne Roesch, Alexandra Sarafoglou, Marianne Saam, Lukas Röseler (4:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **How to find a replication target** by Lukas Wallrich (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    Most published studies have not been subject to replication attempts yet and given limited resources for replication research, we need to priotize what to replicate (first). This walk will run participant through several criteria that can help researchers choosing what to replicate.\
+-   **Replication Journal Showcase** by Thomas Evans, Etienne Roesch, Alexandra Sarafoglou, Marianne Saam, Lukas Röseler (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present Rescience C, Rescience X, the Journal of Comments and Replications in Economics, the Journal of Robustness Reports, the Journal of Open Psychology Data, and Replication Research.\
 
 </details>
 
@@ -73,7 +77,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Thursday, March 5th**</summary>
 
--   **Getting your replication report ready for submission** by Lukas Röseler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Getting your replication report ready for submission** by Lukas Röseler (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    Reports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.
 
 </details>
 
@@ -81,7 +86,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Friday, March 6th**</summary>
 
--   **Cooperation with students to conduct replication studies** by Susanne Adler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Cooperation with students to conduct replication studies** by Susanne Adler (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    Replication studies are a superb way to train (under-)graduate students in research methods. The thorough evaluation of the original study, the use of contemporary statistical methods, and practical applications of preregistration and data management provide students with a profound understanding of empirical research. The acquired skills do not just shape how future scientists and practitioners approach research, but the gathered evidence also contributes to strengthening a research field’s knowledge base. This talk outlines how state-of-the-art replication studies can be integrated into a seminar, what to look out for as a lecturer during these seminars, and describes an example study.
 
 </details>
 
