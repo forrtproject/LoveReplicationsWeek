@@ -6,11 +6,6 @@ about:
   image: logos/logo_lrw.png
 ---
 
-
-
-
-
-
 # *Love Replications Week —* March 2-6
 
 *Join us for daily online Brown Bag Lunch talks. Scroll down to see the full program.*
@@ -31,7 +26,7 @@ Register for the core program below. To submit your own events, please reach out
 
 ![](images/bar.png){fig-align="center"}
 
-## Core Program: Brown Bag Lunch
+## Core Program: Lunch Talks
 
 Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9).
 
@@ -53,7 +48,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Monday, March 2nd**</summary>
 
--   Reproducibility Study Speedrun by Lenka Fiala (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Reproducibility Study Speedrun** by Lenka Fiala (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -61,7 +56,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Tuesday, March 3rd**</summary>
 
--   How to get your reproducibility certificate with CODECHECK by Daniel Nüst (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **How to get your reproducibility certificate with CODECHECK** by Daniel Nüst (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -69,7 +64,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Wednesday, March 4th**</summary>
 
--   How to find a replication target by Lukas Wallrich (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **How to find a replication target** by Lukas Wallrich (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Replication Journal Showcase** by Thomas Evans, Etienne Roesch, Alexandra Sarafoglou, Marianne Saam, Lukas Röseler (4:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -77,7 +73,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Thursday, March 5th**</summary>
 
--   Getting your replication report ready for submission by Lukas Röseler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Getting your replication report ready for submission** by Lukas Röseler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
@@ -85,49 +81,34 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 <summary>**Friday, March 6th**</summary>
 
--   Cooperation with students to conduct replication studies by Susanne Adler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Cooperation with students to conduct replication studies** by Susanne Adler (1:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
 
 </details>
 
 ![](images/bar.png){fig-align="center"}
 
-
-
-::: {.logo-stack}
-
+::: logo-stack
 ## Partners
 
 [![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk)
 
-
 [![](logos/logo_i4r.png){width="150"}](https://i4replication.org)
-
 
 [![](logos/logo_igor.png){width="150"}](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)
 
-
 [![](logos/logo_jcre.jpg){width="150"}](jcr-econ.org)
-
 
 [![](logos/logo_jrr.png){width="150"}](https://scipost.org/JRobustRep/about)
 
-
 [![](logos/lmuosc.png){width="150"}](https://www.osc.uni-muenchen.de/index.html)
-
 
 [![](logos/logo_r2.png){width="150"}](https://replicationresearch.org)
 
-
 ![](images/bar.png){fig-align="center"}
-
 
 ## Organizers
 
-[![](logos/logo_mücos.png){width="150"}](https://www.uni-muenster.de/MueCOS/en/index.html) 
-
+[![](logos/logo_mücos.png){width="150"}](https://www.uni-muenster.de/MueCOS/en/index.html)
 
 [![](logos/logo_forrt.png){width="150"}](https://forrt.org)
-
-
-
 :::
