@@ -312,3 +312,6 @@ margin: 0 0 5cm; / 2 cm gap under each logo */
 .logo-stack p:last-child a {
 margin-bottom: 0;
 }
+
+
+b,strong {font-weight: bold}
