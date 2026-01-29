@@ -30,9 +30,9 @@ Register for the core program below. To submit your own events, please reach out
 
 Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9).
 
-| Date | Presenter | Name | Topic |
+| Date (CET) | Presenter | Name | Topic |
 |------------------|------------------|------------------|------------------|
-| March 2, 1:00 pm CET | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
+| March 2, 1:00 pm | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
 | March 3, 1:00 pm CET | ![](people/nüst.jpeg){width="100"} | Daniel Nüst | How to get your reproducibility certificate with CODECHECK |
 | March 4, 1:00 pm CET | ![](people/wallrich.jpeg){width="100"} | Lukas Wallrich | How to find a replication target |
 | March 5, 1:00 pm CET | ![](people/röseler.png){width="100"} | Lukas Röseler | Getting your replication report ready for submission |
@@ -47,7 +47,9 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 ### **Monday, March 2nd**
 
 -   **Reproducibility Study Speedrun** by [Lenka Fiala](https://www.lenkafiala.com) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
-    *To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.*\
+    *To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.*
+-   **Multiverse Analysis for Reporting Robustness to Analytical Flexibility** by [Cassie Short](https://uol.de/psychologie/statistik/cassie-short) (3:00 - 3:45 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    *Multiverse analysis is a comprehensive and systematic approach to reporting the robustness of results across the defensible “garden of forking paths.” It does so by systematically specifying and computing all defensible combinations of analytic decisions applied to a single dataset, and reporting the result obtained from each. By explicitly acknowledging analytical uncertainty, multiverse analysis increases transparency and reduces the risk of overstating robustness and reproducibility.*\
 
 ### **Tuesday, March 3rd**
 
@@ -67,6 +69,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 -   **Getting your replication report ready for submission** by [Lukas Röseler](https://lukasroeseler.github.io/home/) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *Reports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.*
+-   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 4:45 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    *This introductory session provides an overview of the basics of R Markdown, including how to create, format, and render documents, as well as integrate code, data, figures, tables, and references. In addition, participants will be guided through specific R Markdown templates that can be used to create APA-compliant, publication-ready manuscripts. Some prior knowledge of R programming will be helpful for following this session.*
 
 ### **Friday, March 6th**
 
@@ -78,7 +82,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 ::: logo-stack
 ## Partners
 
-[![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/logo_i4r.png){width="150"}](https://i4replication.org) [![](logos/logo_igor.png){width="150"}](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/) [![](logos/logo_jcre.jpg){width="150"}](jcr-econ.org) [![](logos/logo_jrr.png){width="150"}](https://scipost.org/JRobustRep/about) [![](logos/lmuosc.png){width="150"}](https://www.osc.uni-muenchen.de/index.html) [![](logos/logo_r2.png){width="150"}](https://replicationresearch.org)
+[![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/logo_i4r.png){width="150"}](https://i4replication.org) [![](logos/logo_igor.png){width="150"}](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/) [![](logos/logo_jcre.jpg){width="150"}](jcr-econ.org) [![](logos/logo_jrr.png){width="150"}](https://scipost.org/JRobustRep/about) [![](logos/lmuosc.png){width="150"}](https://www.osc.uni-muenchen.de/index.html) [![](logos/GRN_Logo.png){width="150"}](https://reproducibilitynetwork.de)[![](logos/logo_r2.png){width="150"}](https://replicationresearch.org)
 
 ![](images/bar.png){fig-align="center"}
 
@@ -88,4 +92,3 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 [![](logos/logo_forrt.png){width="150"}](https://forrt.org)
 :::
-
