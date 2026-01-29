@@ -69,7 +69,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 -   **Getting your replication report ready for submission** by [Lukas Röseler](https://lukasroeseler.github.io/home/) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *Reports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.*
--   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 4:45 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+-   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *This introductory session provides an overview of the basics of R Markdown, including how to create, format, and render documents, as well as integrate code, data, figures, tables, and references. In addition, participants will be guided through specific R Markdown templates that can be used to create APA-compliant, publication-ready manuscripts. Some prior knowledge of R programming will be helpful for following this session.*
 
 ### **Friday, March 6th**
