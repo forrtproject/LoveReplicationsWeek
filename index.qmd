@@ -46,6 +46,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 ### **Monday, March 2nd**
 
+-   **Reproducibility in the language sciences: What, why and how** by [Elen Le Foll](https://elenlefoll.eu) and [Mara van der Ploeg](https://en.uit.no/ansatte/mara.ploeg) (10:00 - 11:30 am, online), *registration tbd*
 -   **Reproducibility Study Speedrun** by [Lenka Fiala](https://www.lenkafiala.com) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.*
 -   **Multiverse Analysis for Reporting Robustness to Analytical Flexibility** by [Cassie Short](https://uol.de/psychologie/statistik/cassie-short) (3:00 - 3:45 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
@@ -53,6 +54,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 ### **Tuesday, March 3rd**
 
+-   **The ReproCheck project – Supporting economics journals with data policies and reproducibility checks** by [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam) and [Sven Vlaeminck](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-sven-vlaeminck) (10:15 - 11:00 am CET, online), no registration required \[*link will follow soon*\]\
+    *The ZBW – Leibniz Information Centre for Economics hosts the Journal Data Archive, a service for journals. Since 2025, the archive is developing a pilot service that aims at supporting journals with upgrading data policies and introducing reproducibility checks. The project is funded by Volkswagen Foundation. We will present the project approach and first experiences.*
 -   **Conducting Computational Reproductions: A Guide for Teachers and Students** by [Nate Breznau](https://sites.google.com/site/nbreznau/) (11:15 am - 12:00 CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *How to engage in a computational replication of pre-existing results? Provides reasons for doing the computational reproduction, reasonable expectations to have, reasons to adjust or expand the reproduction into a re-analysis, a reasonable timeline, tips for engaging with the original authors and how to publish results.*
 -   **How to get your reproducibility certificate with CODECHECK** by [Daniel Nüst](https://github.com/nuest) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
