@@ -68,8 +68,13 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 -   **How to find a replication target** by [Lukas Wallrich](lukaswallrich.coffee) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_forrt.png){width="63"}\
     *Most published studies have not been subject to replication attempts yet and given limited resources for replication research, we need to priotize what to replicate (first). This walk will run participant through several criteria that can help researchers choosing what to replicate.*\
--   **Replication Journal Showcase** by Thomas Evans, Etienne Roesch, Nina Ehmann, Alexandra Sarafoglou, Marianne Saam, Lukas Röseler (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
-    \*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).\
+
+-   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+
+    ![](logos/logo_forrt.png){width="63"}
+
+    *Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).\
+    *
 
 ### **Thursday, March 5th**
 
