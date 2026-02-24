@@ -28,7 +28,7 @@ Register for the core program below. To submit your own events, please reach out
 
 ## Core Program: Lunch Talks
 
-Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9).
+Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9). After the event, slides will be available [here](https://zenodo.org/communities/lrw/records?q=&l=list&p=1&s=10&sort=newest).
 
 | Date (CET) | Presenter | Name | Topic |
 |------------------|------------------|------------------|------------------|
@@ -46,7 +46,8 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 ### **Monday, March 2nd**
 
--   **Reproducibility in the language sciences: What, why and how** by [Elen Le Foll](https://elenlefoll.eu) and [Mara van der Ploeg](https://en.uit.no/ansatte/mara.ploeg) (10:00 - 11:30 am, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Reproducibility in the language sciences: What, why and how** by [Elen Le Foll](https://elenlefoll.eu) and [Mara van der Ploeg](https://en.uit.no/ansatte/mara.ploeg) (10:00 - 11:30 am, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+    *In the first half of this talk, Elen will present the results of various attempts to computationally reproduce the results of published quantitative linguistics studies based on the authors' original data. We discuss the factors that led to successful reproductions and those that hindered the process. In the second half, we ask: Where can we find good linguistics data and where to store your data? Answering these questions, Mara introduces TROLLing (The Tromsø Repository of Language and Linguistics), a curated, domain-specific repository that will keep your data safe and accessible long-term.*\
 
 -   **Reproducibility Study Speedrun** by [Lenka Fiala](https://www.lenkafiala.com) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_i4r.png){width="80"}\
     *To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.*
@@ -69,12 +70,9 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 -   **How to find a replication target** by [Lukas Wallrich](lukaswallrich.coffee) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_forrt.png){width="63"}\
     *Most published studies have not been subject to replication attempts yet and given limited resources for replication research, we need to priotize what to replicate (first). This walk will run participant through several criteria that can help researchers choosing what to replicate.*\
 
--   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)
+-   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_forrt.png){width="63"}
 
-    ![](logos/logo_forrt.png){width="63"}
-
-    *Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).\
-    *
+    *Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).*\
 
 ### **Thursday, March 5th**
 
