@@ -32,7 +32,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 
 | Date (CET) | Presenter | Name | Topic |
 |------------------|------------------|------------------|------------------|
-| March 2, 1:00 pm | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
+| March 2, 1:00 pm CET | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
 | March 3, 1:00 pm CET | ![](people/nüst.jpeg){width="100"} | Daniel Nüst | How to get your reproducibility certificate with CODECHECK |
 | March 4, 1:00 pm CET | ![](people/wallrich.jpeg){width="100"} | Lukas Wallrich | How to find a replication target |
 | March 5, 1:00 pm CET | ![](people/röseler.png){width="100"} | Lukas Röseler | Getting your replication report ready for submission |
@@ -79,7 +79,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 -   **Large scale replications vs. Meta-analyses: Lessons learned in developmental science** by [Christina Bergmann](https://sites.google.com/site/chbergma/) (2:30 - 3:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *In developmental science, we typically test small samples of a very noisy population, so both meta-analyses and replications seem like a logical answer to the question, how robust results really are. But what can we learn from each and how do both fare when combined?*
 
--   **Replication Research with Students via the Collaborative Replication and Education Project (CREP)** by [Lili Lazarevic](https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/) and [Jordan Wagge](https://jordanwagge.com/) (3:30 - 4:00 pm CET), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+-   **Replication Research with Students via the Collaborative Replication and Education Project (CREP)** by [Lili Lazarevic](https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/) and [Jordan Wagge](https://jordanwagge.com/) (3:30 - 4:00 pm CET), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/CREP.png){width="26" height="20"}\
     *We will describe the Collaborative Replications and Education Project (CREP), a framework that involves students in contributing to science via replication projects. We will present the project products from the past 10+ years and describe the student experience and learning outcomes. Finally, we will discuss ways that students, instructors, and researchers can get involved with CREP.*
 
 -   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_igor.png){width="22"}![](logos/GRN_Logo.png){width="37"}\
@@ -98,7 +98,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 ::: logo-stack
 ## Partners
 
-[![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/logo_i4r.png){width="150"}](https://i4replication.org) ![](logos/logo_igor.png){width="110"}
+[![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/CREP.png){width="150"}](https://www.crep-psych.org)[![](logos/logo_i4r.png){width="150"}](https://i4replication.org) ![](logos/logo_igor.png){width="110"}
 
 [![](logos/logo_jcre.jpg){width="150"}](jcr-econ.org) [![](logos/logo_jrr.png){width="150"}](https://scipost.org/JRobustRep/about)![](logos/logo_r2.png){width="222" height="49"}
 
