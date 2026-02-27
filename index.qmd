@@ -98,7 +98,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 ::: logo-stack
 ## Partners
 
-[![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/CREP.png){width="150"}](https://www.crep-psych.org)[![](logos/logo_i4r.png){width="150"}](https://i4replication.org) ![](logos/logo_igor.png){width="110"}
+[![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/CREP.png){width="150"}](https://www.crep-psych.org)[![](logos/dra.jpg){width="96" style="font-size: 11pt;"}](https://digital-research.academy) [![](logos/logo_i4r.png){width="150"}](https://i4replication.org) ![](logos/logo_igor.png){width="110"}
 
 [![](logos/logo_jcre.jpg){width="150"}](jcr-econ.org) [![](logos/logo_jrr.png){width="150"}](https://scipost.org/JRobustRep/about)![](logos/logo_r2.png){width="222" height="49"}
 
