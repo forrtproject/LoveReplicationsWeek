@@ -28,7 +28,7 @@ Register for the core program below. To submit your own events, please reach out
 
 ## Core Program: Lunch Talks
 
-Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9). After the event, slides will be available [here](https://zenodo.org/communities/lrw/records?q=&l=list&p=1&s=10&sort=newest).
+Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9) (invitations will be sent out before 9 am CET of the respective day). After the event, slides will be available [here](#0).
 
 | Date (CET) | Presenter | Name | Topic |
 |------------------|------------------|------------------|------------------|
@@ -91,11 +91,18 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
     *Replication studies are a superb way to train (under-)graduate students in research methods. The thorough evaluation of the original study, the use of contemporary statistical methods, and practical applications of preregistration and data management provide students with a profound understanding of empirical research. The acquired skills do not just shape how future scientists and practitioners approach research, but the gathered evidence also contributes to strengthening a research field’s knowledge base. This talk outlines how state-of-the-art replication studies can be integrated into a seminar, what to look out for as a lecturer during these seminars, and describes an example study.*
 
 -   **Workshop: Promoting Robust Science Through Reanalyses** by [Nina Ehmann](https://www.linkedin.com/in/ninaehmann/) and [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/) (1:30 - 3:00 pm CET, online), no registration required, [join directly here](https://uva-live.zoom.us/j/67572089628) ![](logos/logo2_jrr.png){width="17"}\
-    *In published empirical studies, it often remains unclear to what extent the conclusions depend on the chosen analysis pipeline. To address this, we founded the [Journal of Robustness Reports](https://www.journalofrobustnessreports.org/) (JRR), a diamond open-access journal that publishes concise re-analyses of potentially impactful empirical findings. In this workshop, participants will re-analyze a published study and begin drafting a Robustness Report that they can later [submit to the journal](https://scipost.org/JRobustRep).*
+    *In published empirical studies, it often remains unclear to what extent the conclusions depend on the chosen analysis pipeline. To address this, we founded the [Journal of Robustness Reports](https://www.journalofrobustnessreports.org/) (JRR), a diamond open-access journal that publishes concise re-analyses of potentially impactful empirical findings. In this workshop, participants will re-analyze a published study and begin drafting a Robustness Report that they can later [submit to the journal](https://scipost.org/JRobustRep). Interested participants can already familiarize themselves with the target article: <https://doi.org/10.1038/s41562-023-01538-4>.*
 
 ![](images/bar.png){fig-align="center"}
 
 ::: logo-stack
+## Materials
+:::
+
+[![](images/clipboard-3744429647.png)](https://zenodo.org/communities/lrw/records?q=&l=list&p=1&s=10&sort=newest)
+
+![](images/bar.png){fig-align="center"}
+
 ## Partners
 
 [![](logos/logo_codecheck.png){width="150"}](https://codecheck.org.uk) [![](logos/CREP.png){width="150"}](https://www.crep-psych.org)[![](logos/dra.jpg){width="96" style="font-size: 11pt;"}](https://digital-research.academy) [![](logos/logo_i4r.png){width="150"}](https://i4replication.org) ![](logos/logo_igor.png){width="110"}
@@ -111,4 +118,3 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 [![](logos/logo_mücos.png){width="150"}](https://www.uni-muenster.de/MueCOS/en/index.html)
 
 [![](logos/logo_forrt.png){width="150"}](https://forrt.org)
-:::
