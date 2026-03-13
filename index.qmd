@@ -6,9 +6,9 @@ about:
   image: logos/logo_lrw.png
 ---
 
-# *Love Replications Week —* March 2-6
+# *Love Replications Week*
 
-*Join us for daily online Brown Bag Lunch talks. Scroll down to see the full program.*
+Granting replications the spotlight for one entire week - learn about best practices, get in touch with experts, and join an open community!
 
 ![](images/bar.png){fig-align="center"}
 
@@ -22,67 +22,70 @@ A central feature of research is that others should be able to repeat the proced
 
 ### How can I contribute?
 
-Register for the core program below. To submit your own events, please reach out to lukas.roeseler\[at\]uni-muenster\[dot\]de.
+The 2026 Love Replications Week has concluded. Get in touch if you want to contribute to a replication of this event and join the [FORRT Slack](https://join.slack.com/t/forrt/shared_invite/enQtODMwODI0OTk4ODgzLTM0ZTQ3NDk5MzA1ZjBmNWJjYTVlN2Y2YTk0ZTJhYTY5NDliMDYzMjg2MWE0ZDRhOTY0ZDY3OTRlNDA4ODQ3NjQ) to stay up-to-date.
 
 ![](images/bar.png){fig-align="center"}
 
-## Core Program: Lunch Talks
+## 2026 Program
 
-Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, [please register here](https://forms.gle/USfxwRmxnAMMnjow9) (invitations will be sent out before 9 am CET of the respective day). After the event, slides will be available [here](#0).
+*From March 2-6, a group of 17 speakers gave talks, tutorials, and workshops on a variety of topics surrounding reproduction and replication research.*
 
-| Date (CET) | Presenter | Name | Topic |
-|------------------|------------------|------------------|------------------|
-| March 2, 1:00 pm CET | ![](people/fiala.png){width="100"} | Lenka Fiala | Reproducibility Study Speedrun |
-| March 3, 1:00 pm CET | ![](people/nüst.jpeg){width="100"} | Daniel Nüst | How to get your reproducibility certificate with CODECHECK |
-| March 4, 1:00 pm CET | ![](people/wallrich.jpeg){width="100"} | Lukas Wallrich | How to find a replication target |
-| March 5, 1:00 pm CET | ![](people/röseler.png){width="100"} | Lukas Röseler | Getting your replication report ready for submission |
-| March 6, 1:00 pm CET | ![](people/adler.jpg){width="100"} | Susanne Adler | Cooperation with Students to Conduct Replication Studies |
-
-------------------------------------------------------------------------
-
-![](images/bar.png){fig-align="center"}
-
-## Full Program with Abstracts
+![](people/everyone.png){width="800"}
 
 ### **Monday, March 2nd**
 
--   **Reproducibility in the language sciences: What, why and how** by [Elen Le Foll](https://elenlefoll.eu) and [Mara van der Ploeg](https://en.uit.no/ansatte/mara.ploeg) (10:00 - 11:30 am, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+-   **Reproducibility in the language sciences: What, why and how** by [Elen Le Foll](https://elenlefoll.eu) and [Mara van der Ploeg](https://en.uit.no/ansatte/mara.ploeg) (10:00 - 11:30 am, online), [slides](https://doi.org/10.5281/zenodo.18903438)\
     *In the first half of this talk, Elen will present the results of various attempts to computationally reproduce the results of published quantitative linguistics studies based on the authors' original data. We discuss the factors that led to successful reproductions and those that hindered the process. In the second half, we ask: Where can we find good linguistics data and where to store your data? Answering these questions, Mara introduces TROLLing (The Tromsø Repository of Language and Linguistics), a curated, domain-specific repository that will keep your data safe and accessible long-term.*\
+
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/elenlefoll-2-3-2026.mp4)
 
 -   **Reproducibility Study Speedrun** by [Lenka Fiala](https://www.lenkafiala.com) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_i4r.png){width="80"}\
     *To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.*
 
--   **Multiverse Analysis for Reporting Robustness to Analytical Flexibility** by [Cassie Short](https://uol.de/psychologie/statistik/cassie-short) (3:00 - 3:45 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_igor.png){width="22"}![](logos/GRN_Logo.png){width="37"}\
-    *Multiverse analysis is a comprehensive and systematic approach to reporting the robustness of results across the defensible “garden of forking paths.” It does so by systematically specifying and computing all defensible combinations of analytic decisions applied to a single dataset, and reporting the result obtained from each. By explicitly acknowledging analytical uncertainty, multiverse analysis increases transparency and reduces the risk of overstating robustness and reproducibility.*\
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/lenkafiala-2-3-2026.mp4)
+
+-   **Multiverse Analysis for Reporting Robustness to Analytical Flexibility** by [Cassie Short](https://uol.de/psychologie/statistik/cassie-short) (3:00 - 3:45 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18838199) ![](logos/logo_igor.png){width="22"}![](logos/GRN_Logo.png){width="37"}\
+    *Multiverse analysis is a comprehensive and systematic approach to reporting the robustness of results across the defensible “garden of forking paths.” It does so by systematically specifying and computing all defensible combinations of analytic decisions applied to a single dataset, and reporting the result obtained from each. By explicitly acknowledging analytical uncertainty, multiverse analysis increases transparency and reduces the risk of overstating robustness and reproducibility.*
+
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/cassieshort-2-3-2026.mp4)
 
 ### **Tuesday, March 3rd**
 
--   **The ReproCheck project – Supporting economics journals with data policies and reproducibility checks** by [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam) and [Sven Vlaeminck](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-sven-vlaeminck) (10:15 - 11:00 am CET, online), no registration required \[[Zoom link](https://zbw-eu.zoom.us/j/86271629461?pwd=9O3OoGafzCpjaMhaPb4KknkTEsvVkC.1) - *please join with your personal or institution's real name*\]\
+-   **The ReproCheck project – Supporting economics journals with data policies and reproducibility checks** by [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam) and [Sven Vlaeminck](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-sven-vlaeminck) (10:15 - 11:00 am CET, online), [slides](https://doi.org/10.5281/zenodo.18847413)\
     *The ZBW – Leibniz Information Centre for Economics hosts the Journal Data Archive, a service for journals. Since 2025, the archive is developing a pilot service that aims at supporting journals with upgrading data policies and introducing reproducibility checks. The project is funded by Volkswagen Foundation. We will present the project approach and first experiences.*
--   **Conducting Computational Reproductions: A Guide for Teachers and Students** by [Nate Breznau](https://sites.google.com/site/nbreznau/) (11:15 am - 12:00 CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
+
+-   **Conducting Computational Reproductions: A Guide for Teachers and Students** by [Nate Breznau](https://sites.google.com/site/nbreznau/) (11:15 am - 12:00 CET, online), [slides](https://doi.org/10.5281/zenodo.18847868)\
     *How to engage in a computational replication of pre-existing results? Provides reasons for doing the computational reproduction, reasonable expectations to have, reasons to adjust or expand the reproduction into a re-analysis, a reasonable timeline, tips for engaging with the original authors and how to publish results.*
--   **How to get your reproducibility certificate with CODECHECK** by [Daniel Nüst](https://github.com/nuest) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_codecheck.png){width="39"}\
+
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/natebreznau-3-3-2026.mp4)
+
+-   **How to get your reproducibility certificate with CODECHECK** by [Daniel Nüst](https://github.com/nuest) (1:00 - 1:30 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18849085) ![](logos/logo_codecheck.png){width="39"}\
     [*CODECHECK*](https://codecheck.org.uk) \*provides an approach for independent execution of computations underlying research articles. During the publication process, one reviewer - the codechecker - certifies that they was able to execute relevant parts of a computational workflow. This certificate becomes part of the public record.\
+
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/danielnust-3-3-2026.mp4)
 
 ### **Wednesday, March 4th**
 
--   **How to find a replication target** by [Lukas Wallrich](lukaswallrich.coffee) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_forrt.png){width="63"}\
+-   **How to find a replication target** by [Lukas Wallrich](lukaswallrich.coffee) (1:00 - 1:30 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18808378) ![](logos/logo_forrt.png){width="63"} ![](logos/logo_r2.png){style="font-size: 11pt;" width="91" height="20"}
+
     *Most published studies have not been subject to replication attempts yet and given limited resources for replication research, we need to priotize what to replicate (first). This walk will run participant through several criteria that can help researchers choosing what to replicate.*\
 
--   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_forrt.png){width="63"}*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).*\
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/lukaswallrich-4-3-2026.mp4)
+
+-   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [JRR slides](https://doi.org/10.5281/zenodo.18865086), [R2 slides](https://doi.org/10.5281/zenodo.18758426) ![](logos/logo_forrt.png){width="63"}*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).*\
 
 ### **Thursday, March 5th**
 
--   **Getting your replication report ready for submission** by [Lukas Röseler](https://lukasroeseler.github.io/home/) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_r2.png){style="font-size: 11pt;" width="91" height="20"}\
+-   **Getting your replication report ready for submission** by [Lukas Röseler](https://lukasroeseler.github.io/home/) (1:00 - 1:30 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18757229) ![](logos/logo_forrt.png){width="63"}![](logos/logo_r2.png){style="font-size: 11pt;" width="91" height="20"}\
     *Reports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.*
 
 -   **Large scale replications vs. Meta-analyses: Lessons learned in developmental science** by [Christina Bergmann](https://sites.google.com/site/chbergma/) (2:30 - 3:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9)\
     *In developmental science, we typically test small samples of a very noisy population, so both meta-analyses and replications seem like a logical answer to the question, how robust results really are. But what can we learn from each and how do both fare when combined?*
 
--   **Replication Research with Students via the Collaborative Replication and Education Project (CREP)** by [Lili Lazarevic](https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/) and [Jordan Wagge](https://jordanwagge.com/) (3:30 - 4:00 pm CET), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/CREP.png){width="26" height="20"}\
+-   **Replication Research with Students via the Collaborative Replication and Education Project (CREP)** by [Lili Lazarevic](https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/) and [Jordan Wagge](https://jordanwagge.com/) (3:30 - 4:00 pm CET), [slides](https://doi.org/10.5281/zenodo.18936899)![](logos/CREP.png){width="26" height="20"}\
     *We will describe the Collaborative Replications and Education Project (CREP), a framework that involves students in contributing to science via replication projects. We will present the project products from the past 10+ years and describe the student experience and learning outcomes. Finally, we will discuss ways that students, instructors, and researchers can get involved with CREP.*
 
--   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 5:00 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_igor.png){width="22"}![](logos/GRN_Logo.png){width="37"}\
+-   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 5:00 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18886525) and [github repo](https://github.com/m-klingelhoefer-j/Writing_reproducible_manuscripts) ![](logos/logo_igor.png){width="22"}![](logos/GRN_Logo.png){width="37"}\
     *This introductory session provides an overview of the basics of R Markdown, including how to create, format, and render documents, as well as integrate code, data, figures, tables, and references. In addition, participants will be guided through specific R Markdown templates that can be used to create APA-compliant, publication-ready manuscripts. Some prior knowledge of R programming will be helpful for following this session.*
 
 ### **Friday, March 6th**
@@ -90,7 +93,7 @@ Each day, there will be a 15 minutes online presentation on a specific topic, fo
 -   **Cooperation with students to conduct replication studies** by [Susanne Adler](https://linktr.ee/susanneadler) (1:00 - 1:30 pm CET, online), [registration required](https://forms.gle/USfxwRmxnAMMnjow9) ![](logos/logo_r2.png){width="91" height="20" style="font-size: 11pt;"}\
     *Replication studies are a superb way to train (under-)graduate students in research methods. The thorough evaluation of the original study, the use of contemporary statistical methods, and practical applications of preregistration and data management provide students with a profound understanding of empirical research. The acquired skills do not just shape how future scientists and practitioners approach research, but the gathered evidence also contributes to strengthening a research field’s knowledge base. This talk outlines how state-of-the-art replication studies can be integrated into a seminar, what to look out for as a lecturer during these seminars, and describes an example study.*
 
--   **Workshop: Promoting Robust Science Through Reanalyses** by [Nina Ehmann](https://www.linkedin.com/in/ninaehmann/) and [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/) (1:30 - 3:00 pm CET, online), no registration required, [join directly here](https://uva-live.zoom.us/j/67572089628) ![](logos/logo2_jrr.png){width="17"}\
+-   **Workshop: Promoting Robust Science Through Reanalyses** by [Nina Ehmann](https://www.linkedin.com/in/ninaehmann/) and [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/) (1:30 - 3:00 pm CET, online), no registration required, [slides](https://doi.org/10.5281/zenodo.18890221) ![](logos/logo2_jrr.png){width="17"}\
     *In published empirical studies, it often remains unclear to what extent the conclusions depend on the chosen analysis pipeline. To address this, we founded the [Journal of Robustness Reports](https://www.journalofrobustnessreports.org/) (JRR), a diamond open-access journal that publishes concise re-analyses of potentially impactful empirical findings. In this workshop, participants will re-analyze a published study and begin drafting a Robustness Report that they can later [submit to the journal](https://scipost.org/JRobustRep). Interested participants can already familiarize themselves with the target article: <https://doi.org/10.1038/s41562-023-01538-4>.*
 
 ![](images/bar.png){fig-align="center"}
