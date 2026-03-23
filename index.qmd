@@ -39,7 +39,7 @@ The 2026 Love Replications Week has concluded. Get in touch if you want to contr
 
     ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/elenlefoll-2-3-2026.mp4)
 
--   **Reproducibility Study Speedrun** by [Lenka Fiala](https://www.lenkafiala.com) (1:00 - 1:30 pm CET, online), [slides ](https://doi.org/10.5281/zenodo.18823102)![](logos/logo_i4r.png){width="80"}\
+-   **Reproducibility Study Speedrun** by [Lenka Fiala](https://www.lenkafiala.com) (1:00 - 1:30 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18823102)![](logos/logo_i4r.png){width="80"}\
     *To investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.*
 
     ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/lenkafiala-2-3-2026.mp4)
@@ -72,26 +72,45 @@ The 2026 Love Replications Week has concluded. Get in touch if you want to contr
 
     ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/lukaswallrich-4-3-2026.mp4)
 
--   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [JRR slides](https://doi.org/10.5281/zenodo.18865086), [R2 slides](https://doi.org/10.5281/zenodo.18758426) ![](logos/logo_forrt.png){width="63"}*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).*\
+-   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [JRR slides](https://doi.org/10.5281/zenodo.18865086), [R2 slides](https://doi.org/10.5281/zenodo.18758426) ![](logos/logo_forrt.png){width="63"}*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).*
+
+
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/rescience.mp4)
+
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/jcre.mp4)
+
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/jrr.mp4)
+
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/r2.mp4)
+
+\
 
 ### **Thursday, March 5th**
 
 -   **Getting your replication report ready for submission** by [Lukas Röseler](https://lukasroeseler.github.io/home/) (1:00 - 1:30 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18757229) ![](logos/logo_forrt.png){width="63"}![](logos/logo_r2.png){style="font-size: 11pt;" width="91" height="20"}\
-    *Reports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.*
+    *Reports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.* ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/roseler.mp4)
 
 -   **Large scale replications vs. Meta-analyses: Lessons learned in developmental science** by [Christina Bergmann](https://sites.google.com/site/chbergma/) (2:30 - 3:30 pm CET, online)\
     *In developmental science, we typically test small samples of a very noisy population, so both meta-analyses and replications seem like a logical answer to the question, how robust results really are. But what can we learn from each and how do both fare when combined?*
 
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/christina.mp4)
+
 -   **Replication Research with Students via the Collaborative Replication and Education Project (CREP)** by [Lili Lazarevic](https://lira.f.bg.ac.rs/ljiljana-lazarevic-en/) and [Jordan Wagge](https://jordanwagge.com/) (3:30 - 4:00 pm CET), [slides](https://doi.org/10.5281/zenodo.18936899)![](logos/CREP.png){width="26" height="20"}\
     *We will describe the Collaborative Replications and Education Project (CREP), a framework that involves students in contributing to science via replication projects. We will present the project products from the past 10+ years and describe the student experience and learning outcomes. Finally, we will discuss ways that students, instructors, and researchers can get involved with CREP.*
 
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/jordan-lili.mp4)
+
 -   **Getting started: Writing reproducible manuscripts using R Markdown** by [Maren Klingelhöfer-Jens](https://www.uke.de/allgemein/arztprofile-und-wissenschaftlerprofile/wissenschaftlerprofilseite_maren_klingelhöfer-jens.html) (4:00 - 5:00 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18886525) and [github repo](https://github.com/m-klingelhoefer-j/Writing_reproducible_manuscripts) ![](logos/logo_igor.png){width="22"}![](logos/GRN_Logo.png){width="37"}\
     *This introductory session provides an overview of the basics of R Markdown, including how to create, format, and render documents, as well as integrate code, data, figures, tables, and references. In addition, participants will be guided through specific R Markdown templates that can be used to create APA-compliant, publication-ready manuscripts. Some prior knowledge of R programming will be helpful for following this session.*
+
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/maren.mp4)
 
 ### **Friday, March 6th**
 
 -   **Cooperation with students to conduct replication studies** by [Susanne Adler](https://linktr.ee/susanneadler) (1:00 - 1:30 pm CET, online) ![](logos/logo_r2.png){width="91" height="20" style="font-size: 11pt;"}\
     *Replication studies are a superb way to train (under-)graduate students in research methods. The thorough evaluation of the original study, the use of contemporary statistical methods, and practical applications of preregistration and data management provide students with a profound understanding of empirical research. The acquired skills do not just shape how future scientists and practitioners approach research, but the gathered evidence also contributes to strengthening a research field’s knowledge base. This talk outlines how state-of-the-art replication studies can be integrated into a seminar, what to look out for as a lecturer during these seminars, and describes an example study.*
+
+    ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/susanne.mp4)
 
 -   **Workshop: Promoting Robust Science Through Reanalyses** by [Nina Ehmann](https://www.linkedin.com/in/ninaehmann/) and [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/) (1:30 - 3:00 pm CET, online), [slides](https://doi.org/10.5281/zenodo.18890221) ![](logos/logo2_jrr.png){width="17"}\
     *In published empirical studies, it often remains unclear to what extent the conclusions depend on the chosen analysis pipeline. To address this, we founded the [Journal of Robustness Reports](https://www.journalofrobustnessreports.org/) (JRR), a diamond open-access journal that publishes concise re-analyses of potentially impactful empirical findings. In this workshop, participants will re-analyze a published study and begin drafting a Robustness Report that they can later [submit to the journal](https://scipost.org/JRobustRep). Interested participants can already familiarize themselves with the target article: <https://doi.org/10.1038/s41562-023-01538-4>.*
