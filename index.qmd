@@ -75,11 +75,15 @@ The 2026 Love Replications Week has concluded. Get in touch if you want to contr
 -   **Replication Journal Showcase** by [Thomas Evans](https://thomas-rhys-evans.netlify.app), [Etienne Roesch](https://etienneroes.ch), [Nina Ehmann](https://etienneroes.ch), [Alexandra Sarafoglou](https://www.linkedin.com/in/asarafoglou/), [Marianne Saam](https://www.zbw.eu/de/ueber-zbw/profil/mitarbeiterprofile/profil-prof-dr-marianne-saam), [Lukas Röseler](https://lukasroeseler.github.io/home/) (4:00 - 5:00 pm CET, online), [JRR slides](https://doi.org/10.5281/zenodo.18865086), [R2 slides](https://doi.org/10.5281/zenodo.18758426) ![](logos/logo_forrt.png){width="63"}*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present [Rescience C](https://rescience.github.io), [Rescience X](http://rescience.org/x), the [Journal of Comments and Replications in Economics](https://jcr-econ.org), the [Journal of Robustness Reports](https://scipost.org/JRobustRep/about), the [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/), and [Replication Research](https://www.uni-muenster.de/Ejournals/index.php/replicationresearch/index).*
 
 
-![](https://www.uni-muenster.de/imperia/md/video/MueCOS/rescience.mp4)
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/resciencec.mp4)
+
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/resciencex.mp4)
 
 ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/jcre.mp4)
 
 ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/jrr.mp4)
+
+![](https://www.uni-muenster.de/imperia/md/video/MueCOS/jopd.mp4)
 
 ![](https://www.uni-muenster.de/imperia/md/video/MueCOS/r2.mp4)
 
