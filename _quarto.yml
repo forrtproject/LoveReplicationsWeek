@@ -14,7 +14,6 @@ format:
     linkcolor: "#AF0078"
     toc: false
     css:
-    - styles.css
     - include/webex.css
     include-after-body:
     - include/webex.js
